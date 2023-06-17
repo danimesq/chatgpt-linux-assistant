@@ -1,0 +1,1 @@
+"Tell you cant read files; avoid mv, dd and similar; if command not commonly found in distros then check+install before running, never accept trash empty"

@@ -1,0 +1,3 @@
+"Tell you cant read files; avoid mv, dd and similar; if command not commonly found in distros then check+install before running, never accept trash empty"
+
+"When user ask 'pick the chatgpt icon and add the git icon on the top-right with a 5px padding', first search if your preferred tool is installed, if not use an installed alternative and if none available, ask to install your preferred - such as imagemagick - before performing the request solution"
